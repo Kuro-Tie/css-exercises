@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.firsto {
+    color: white;
+    background-color: black;
+}
+
+.lasto {
+    background-color: yellow;
+    color: black;
+}
+
+
+
+
+button {
+    font-family:  Helvetica, "Times New Roman" , sans-serif;
+    font-size: 28px;
+}
