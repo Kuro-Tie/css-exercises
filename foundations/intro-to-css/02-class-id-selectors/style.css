@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd-class {
+    background-color: #e665b0;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#iamspecial {
+    color: #0a0add;
+    font-size: 36px;
+}
+
+#iamtoospecial {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #025728;        
+}
+
+.cool-class {
+    font-size: 24px;
+
+}
